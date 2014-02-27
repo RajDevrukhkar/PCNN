@@ -1,1 +1,1 @@
-The 'Data Sets' folder contains the original datasets in their original format. Whereas, th 'Serialized Data Sets' folder contained the pre-processed versions of these data sets. The pre-processing is done using the 'DataSetSerializer.java' program.
+The 'Data Sets' folder contains the original datasets in their original format. Whereas, the 'Serialized Data Sets' folder contained the pre-processed versions of these data sets. The pre-processing is done using the 'DataSetSerializer.java' program.
